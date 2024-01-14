@@ -1,0 +1,6 @@
+普通AI	level3	3	0	1
+1	1	1	0	1
+简单AI	level1	2	2	4
+困难AI	level5	1	2	2
+cxd	123	1	1	0
+2	1	0	1	1
